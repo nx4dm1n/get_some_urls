@@ -1,4 +1,4 @@
 # hackerone website
-- collect the website of the hackerone.
+- collect the urls of the hackerone.
 
 just so so.
